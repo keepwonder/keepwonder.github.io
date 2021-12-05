@@ -37,4 +37,526 @@
     
   </entry>
   
+  <entry>
+    <title>ML with sklearn——01 Decision Tree</title>
+    <link href="http://xuanxiewu.com/2020/01/20/ml-with-sklearn-01/"/>
+    <id>http://xuanxiewu.com/2020/01/20/ml-with-sklearn-01/</id>
+    <published>2020-01-20T12:34:56.000Z</published>
+    <updated>2021-12-05T09:02:11.287Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/dt.jpeg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="MLDL" scheme="http://xuanxiewu.com/categories/MLDL/"/>
+    
+    
+    <category term="ml" scheme="http://xuanxiewu.com/tags/ml/"/>
+    
+    <category term="sklearn" scheme="http://xuanxiewu.com/tags/sklearn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Elastic Getting Stared</title>
+    <link href="http://xuanxiewu.com/2018/02/26/elastic-get-started/"/>
+    <id>http://xuanxiewu.com/2018/02/26/elastic-get-started/</id>
+    <published>2018-02-26T05:10:39.000Z</published>
+    <updated>2021-12-05T09:02:14.253Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/es.jpg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>redis quickstart</title>
+    <link href="http://xuanxiewu.com/2018/02/25/redis-quickstart/"/>
+    <id>http://xuanxiewu.com/2018/02/25/redis-quickstart/</id>
+    <published>2018-02-25T12:43:46.000Z</published>
+    <updated>2021-12-05T09:02:07.715Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Redis简介&quot;&gt;&lt;a href=&quot;#Redis简介&quot; class=&quot;headerlink&quot; title=&quot;Redis简介&quot;&gt;&lt;/a&gt;Redis简介&lt;/h2&gt;&lt;h2 id=&quot;Redis键&quot;&gt;&lt;a href=&quot;#Redis键&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="redis" scheme="http://xuanxiewu.com/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Road to Python Full Stack</title>
+    <link href="http://xuanxiewu.com/2018/01/21/road-to-python-full-stack/"/>
+    <id>http://xuanxiewu.com/2018/01/21/road-to-python-full-stack/</id>
+    <published>2018-01-21T08:10:38.000Z</published>
+    <updated>2021-12-05T09:02:05.464Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;python全栈之路&quot;&gt;&lt;a href=&quot;#python全栈之路&quot; class=&quot;headerlink&quot; title=&quot;python全栈之路&quot;&gt;&lt;/a&gt;python全栈之路&lt;/h2&gt;&lt;h3 id=&quot;简单介绍&quot;&gt;&lt;a href=&quot;#简单介绍&quot; class=&quot;headerlink&quot; title=&quot;简单介绍&quot;&gt;&lt;/a&gt;简单介绍&lt;/h3&gt;&lt;p&gt;这篇文章记录一下，用Python做全栈开发的一些个人浅显感想。&lt;br&gt;首先python全栈有两个关键词，一个是&lt;code&gt;python&lt;/code&gt;,一个是&lt;code&gt;全栈&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;首先说&lt;code&gt;python&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;什么是python？&lt;br&gt;python是一种脚本语言，一种解释型语言，一种胶水语言。作为脚本语言，python可以写日常用的一些脚本任务；作为解释型语言，python可以直接通过命令行，验证自己的想法；作为胶水语言，python可以在程序中整合其他语言的脚本，比如C、Java等。&lt;/li&gt;
+&lt;li&gt;python有什么优势？&lt;br&gt;python语言简单优雅，容易入门，可以通过很短的代码实现复杂的功能。python内置许多标准函数和标准库，同时python拥有丰富的第三方库，可以应用在众多领域。&lt;/li&gt;
+&lt;li&gt;python的主要应用领域？&lt;br&gt;python语言简单，但不代表只能做简单的事情。从日常的脚本程序，web开发，爬虫开发到数据分析，机器学习，人工智能等领域，python都有丰富的库支持。</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HomeBrew简单使用</title>
+    <link href="http://xuanxiewu.com/2018/01/21/homebrew-jian-dan-shi-yong/"/>
+    <id>http://xuanxiewu.com/2018/01/21/homebrew-jian-dan-shi-yong/</id>
+    <published>2018-01-21T06:37:48.000Z</published>
+    <updated>2021-12-05T09:02:13.120Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;HomeBrew是什么&quot;&gt;&lt;a href=&quot;#HomeBrew是什么&quot; class=&quot;headerlink&quot; title=&quot;HomeBrew是什么?&quot;&gt;&lt;/a&gt;HomeBrew是什么?&lt;/h2&gt;&lt;p&gt;详情见&lt;a href=&quot;https://brew.sh/&quot;&gt;官网&lt;/a&gt;&lt;br&gt;HomeBrew是一款Mac OS平台下的软件管理工具，可以通过简单的命令安装、卸载、升级、管理软件。&lt;/p&gt;
+&lt;h2 id=&quot;安装HomeBrew&quot;&gt;&lt;a href=&quot;#安装HomeBrew&quot; class=&quot;headerlink&quot; title=&quot;安装HomeBrew&quot;&gt;&lt;/a&gt;安装HomeBrew&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;&amp;#x2F;usr&amp;#x2F;bin&amp;#x2F;ruby -e &amp;quot;$(curl -fsSL https:&amp;#x2F;&amp;#x2F;raw.githubusercontent.com&amp;#x2F;Homebrew&amp;#x2F;install&amp;#x2F;master&amp;#x2F;install)&amp;quot;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在终端输入以上命令，根据提示进行操作。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="mac" scheme="http://xuanxiewu.com/categories/mac/"/>
+    
+    
+    <category term="tools" scheme="http://xuanxiewu.com/tags/tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云python3+flask部署</title>
+    <link href="http://xuanxiewu.com/2017/12/19/a-li-yun-python3-flask-bu-shu/"/>
+    <id>http://xuanxiewu.com/2017/12/19/a-li-yun-python3-flask-bu-shu/</id>
+    <published>2017-12-19T07:41:31.000Z</published>
+    <updated>2021-12-05T09:02:03.978Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;网站根目录&quot;&gt;&lt;a href=&quot;#网站根目录&quot; class=&quot;headerlink&quot; title=&quot;网站根目录&quot;&gt;&lt;/a&gt;网站根目录&lt;/h1&gt;&lt;h1 id=&quot;普通www用户&quot;&gt;&lt;a href=&quot;#普通www用户&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="http://xuanxiewu.com/categories/web/"/>
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/tags/python/"/>
+    
+    <category term="flask" scheme="http://xuanxiewu.com/tags/flask/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>memcached简单使用</title>
+    <link href="http://xuanxiewu.com/2017/12/05/memcached-jian-dan-shi-yong/"/>
+    <id>http://xuanxiewu.com/2017/12/05/memcached-jian-dan-shi-yong/</id>
+    <published>2017-12-05T10:16:36.000Z</published>
+    <updated>2021-12-05T09:02:11.135Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/memcached.jpg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="database" scheme="http://xuanxiewu.com/categories/database/"/>
+    
+    
+    <category term="memcached" scheme="http://xuanxiewu.com/tags/memcached/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python built-in constants</title>
+    <link href="http://xuanxiewu.com/2017/11/15/python-built-in-constants/"/>
+    <id>http://xuanxiewu.com/2017/11/15/python-built-in-constants/</id>
+    <published>2017-11-15T05:33:05.000Z</published>
+    <updated>2021-12-05T09:02:09.803Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;python内置常量&quot;&gt;&lt;a href=&quot;#python内置常量&quot; class=&quot;headerlink&quot; title=&quot;python内置常量&quot;&gt;&lt;/a&gt;python内置常量&lt;/h2&gt;&lt;h3 id=&quot;False&quot;&gt;&lt;a href=&quot;#False&quot; class=&quot;headerlink&quot; title=&quot;False&quot;&gt;&lt;/a&gt;False&lt;/h3&gt;&lt;p&gt;bool类型的假值，python3中，False作为一个关键字不能被赋值，赋值是非法的，会报语法错误：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;In [1]: False = 0
+  File &amp;quot;&amp;lt;ipython-input-1-389dfc15b373&amp;gt;&amp;quot;, line 1
+    False = 0
+             ^
+SyntaxError: can&amp;#39;t assign to keyword
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;True&quot;&gt;&lt;a href=&quot;#True&quot; class=&quot;headerlink&quot; title=&quot;True&quot;&gt;&lt;/a&gt;True&lt;/h3&gt;&lt;p&gt;同False一样，bool类型的真值，python3中，True作为一个关键字不能被赋值，赋值是非法的，会报语法错误：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;In [1]: True = 1
+  File &amp;quot;&amp;lt;ipython-input-2-11e39cdf8368&amp;gt;&amp;quot;, line 1
+    True = 1
+            ^
+SyntaxError: can&amp;#39;t assign to keyword
+&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="built-in constants" scheme="http://xuanxiewu.com/tags/built-in-constants/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python built-in functions</title>
+    <link href="http://xuanxiewu.com/2017/11/15/python-built-in-functions/"/>
+    <id>http://xuanxiewu.com/2017/11/15/python-built-in-functions/</id>
+    <published>2017-11-15T02:41:29.000Z</published>
+    <updated>2021-12-05T09:02:07.733Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;python内置函数&quot;&gt;&lt;a href=&quot;#python内置函数&quot; class=&quot;headerlink&quot; title=&quot;python内置函数&quot;&gt;&lt;/a&gt;python内置函数&lt;/h2&gt;&lt;p&gt;python解释器内置许多函数和类型，我们可以直接使用，下表按字典顺序列出&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;内置函数&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#abs&quot;&gt;abs()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#dict&quot;&gt;dict()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#help&quot;&gt;help()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#min&quot;&gt;min()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#setattr&quot;&gt;setattr()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#all&quot;&gt;all()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#dir&quot;&gt;dir()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;hex()&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#next&quot;&gt;next()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#slice&quot;&gt;slice()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#any&quot;&gt;any()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#divmod&quot;&gt;divmod()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#id&quot;&gt;id()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#object&quot;&gt;object()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#sorted&quot;&gt;sorted()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#ascii&quot;&gt;ascii()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#enumerate&quot;&gt;enumerate()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#input&quot;&gt;input()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#oct&quot;&gt;oct()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#staticmethod&quot;&gt;staticmethod()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#bin&quot;&gt;bin()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#eval&quot;&gt;eval()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#int&quot;&gt;int()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#open&quot;&gt;open()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#str&quot;&gt;str()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#bool&quot;&gt;bool()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#exec&quot;&gt;exec()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#isinstance&quot;&gt;isinstance()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#ord&quot;&gt;ord()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#sum&quot;&gt;sum()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#bytearray&quot;&gt;bytearray()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#filter&quot;&gt;filter()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#issubclass&quot;&gt;issubclass()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#pow&quot;&gt;pow()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#super&quot;&gt;super()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#bytes&quot;&gt;bytes()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#float&quot;&gt;float()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#iter&quot;&gt;iter()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#print&quot;&gt;print()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#tuple&quot;&gt;tuple()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#callable&quot;&gt;callable()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#format&quot;&gt;format()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#len&quot;&gt;len()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#property&quot;&gt;property()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#type&quot;&gt;type()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#chr&quot;&gt;chr()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#frozenset&quot;&gt;frozenset()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#list&quot;&gt;list()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#range&quot;&gt;range()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;vars&quot;&gt;vars()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#classmethod&quot;&gt;classmethod()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#getattr&quot;&gt;getattr()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#locals&quot;&gt;locals()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#repr&quot;&gt;repr()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#zip&quot;&gt;zip()&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#compile&quot;&gt;compile()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#globals&quot;&gt;globals()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#map&quot;&gt;map()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#reversed&quot;&gt;reversed()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#import&quot;&gt;&lt;code&gt;__import__()&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#complex&quot;&gt;complex()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#hasattr&quot;&gt;hasattr()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#max&quot;&gt;max()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#round&quot;&gt;round()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;#delattr&quot;&gt;delattr()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#hash&quot;&gt;hash()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#memoryview&quot;&gt;memoryview()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;set&quot;&gt;set()&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="built-in functions" scheme="http://xuanxiewu.com/tags/built-in-functions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Install mysql5.7 on aliyun ECS ubuntu16.04.4 </title>
+    <link href="http://xuanxiewu.com/2017/11/07/install-mysql5-7-on-aliyun-ecs-ubuntu16-04-4/"/>
+    <id>http://xuanxiewu.com/2017/11/07/install-mysql5-7-on-aliyun-ecs-ubuntu16-04-4/</id>
+    <published>2017-11-07T10:59:49.000Z</published>
+    <updated>2021-12-05T09:02:12.922Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/aliyun.jpg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="database" scheme="http://xuanxiewu.com/categories/database/"/>
+    
+    
+    <category term="mysql" scheme="http://xuanxiewu.com/tags/mysql/"/>
+    
+    <category term="aliyun" scheme="http://xuanxiewu.com/tags/aliyun/"/>
+    
+    <category term="ubuntu" scheme="http://xuanxiewu.com/tags/ubuntu/"/>
+    
+    <category term="ECS" scheme="http://xuanxiewu.com/tags/ECS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello flask 02: hello world</title>
+    <link href="http://xuanxiewu.com/2017/10/30/hello-flask-02-hello-world/"/>
+    <id>http://xuanxiewu.com/2017/10/30/hello-flask-02-hello-world/</id>
+    <published>2017-10-30T14:49:08.000Z</published>
+    <updated>2021-12-05T09:02:14.195Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;flask系列之Hello-World&quot;&gt;&lt;a href=&quot;#flask系列之Hello-World&quot; class=&quot;headerlink&quot; title=&quot;flask系列之Hello World!&quot;&gt;&lt;/a&gt;flask系列之Hello World!&lt;/h1&gt;&lt;h3 id=&quot;上一篇文章中，已经搭建好了基本环境，这一篇正式进入flask&quot;&gt;&lt;a href=&quot;#上一篇文章中，已经搭建好了基本环境，这一篇正式进入flask&quot; class=&quot;headerlink&quot; title=&quot;上一篇文章中，已经搭建好了基本环境，这一篇正式进入flask!&quot;&gt;&lt;/a&gt;上一篇文章中，已经搭建好了基本环境，这一篇正式进入flask!&lt;/h3&gt;&lt;h3 id=&quot;安装flask&quot;&gt;&lt;a href=&quot;#安装flask&quot; class=&quot;headerlink&quot; title=&quot;安装flask&quot;&gt;&lt;/a&gt;安装flask&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;pip install flask
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;查看是否安装成功，pip-freeze显示如下说明安装成功，同时也可以看出flask依赖如下一些包：click-itsdangerous-jinja2-MarkupSafe-Werkzeug-后面会有相关的一些介绍，这里知道就好&quot;&gt;&lt;a href=&quot;#查看是否安装成功，pip-freeze显示如下说明安装成功，同时也可以看出flask依赖如下一些包：click-itsdangerous-jinja2-MarkupSafe-Werkzeug-后面会有相关的一些介绍，这里知道就好&quot; class=&quot;headerlink&quot; title=&quot;查看是否安装成功，pip freeze显示如下说明安装成功，同时也可以看出flask依赖如下一些包：click,itsdangerous,jinja2,MarkupSafe,Werkzeug,后面会有相关的一些介绍，这里知道就好&quot;&gt;&lt;/a&gt;查看是否安装成功，pip freeze显示如下说明安装成功，同时也可以看出flask依赖如下一些包：click,itsdangerous,jinja2,MarkupSafe,Werkzeug,后面会有相关的一些介绍，这里知道就好&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;(micro-blog) jockie:~/programs/learn_flask/flask_microblog (master *)$ pip freeze
+certifi==2017.7.27.1
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+Werkzeug==0.12.2
+&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="flask" scheme="http://xuanxiewu.com/tags/flask/"/>
+    
+    <category term="web" scheme="http://xuanxiewu.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello flask 01: prepare</title>
+    <link href="http://xuanxiewu.com/2017/10/30/hello-flask-01-prepare/"/>
+    <id>http://xuanxiewu.com/2017/10/30/hello-flask-01-prepare/</id>
+    <published>2017-10-30T13:26:27.000Z</published>
+    <updated>2021-12-05T09:02:14.224Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/prepare.png&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="flask" scheme="http://xuanxiewu.com/tags/flask/"/>
+    
+    <category term="web" scheme="http://xuanxiewu.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>conda cheet sheet</title>
+    <link href="http://xuanxiewu.com/2017/10/26/conda-cheet-sheet/"/>
+    <id>http://xuanxiewu.com/2017/10/26/conda-cheet-sheet/</id>
+    <published>2017-10-26T07:33:03.000Z</published>
+    <updated>2021-12-05T09:02:14.361Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/conda.png&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="conda" scheme="http://xuanxiewu.com/tags/conda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>problems in using python</title>
+    <link href="http://xuanxiewu.com/2017/10/25/problems-in-using-python/"/>
+    <id>http://xuanxiewu.com/2017/10/25/problems-in-using-python/</id>
+    <published>2017-10-25T07:54:31.000Z</published>
+    <updated>2021-12-05T09:02:09.980Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/problems.jpg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos7+hadoop2.8.0 full cluster</title>
+    <link href="http://xuanxiewu.com/2017/09/19/centos7-hadoop2-8-0-full-cluster/"/>
+    <id>http://xuanxiewu.com/2017/09/19/centos7-hadoop2-8-0-full-cluster/</id>
+    <published>2017-09-19T02:32:22.000Z</published>
+    <updated>2021-12-05T09:02:15.759Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/hadoop.jpeg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    <category term="BigData" scheme="http://xuanxiewu.com/categories/BigData/"/>
+    
+    
+    <category term="hadoop" scheme="http://xuanxiewu.com/tags/hadoop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MacOS install scrapy</title>
+    <link href="http://xuanxiewu.com/2017/09/16/macos-install-scrapy/"/>
+    <id>http://xuanxiewu.com/2017/09/16/macos-install-scrapy/</id>
+    <published>2017-09-16T03:03:27.000Z</published>
+    <updated>2021-12-05T09:02:11.495Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/scrapy.jpeg&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;</summary>
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/categories/python/"/>
+    
+    
+    <category term="scrapy" scheme="http://xuanxiewu.com/tags/scrapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos7 install mysql5.7</title>
+    <link href="http://xuanxiewu.com/2017/08/27/centos7-install-mysql5-7/"/>
+    <id>http://xuanxiewu.com/2017/08/27/centos7-install-mysql5-7/</id>
+    <published>2017-08-27T10:54:19.000Z</published>
+    <updated>2021-12-05T09:02:15.637Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/mysql.jpeg&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;</summary>
+    
+    
+    
+    <category term="BigData" scheme="http://xuanxiewu.com/categories/BigData/"/>
+    
+    
+    <category term="mysql5.7" scheme="http://xuanxiewu.com/tags/mysql5-7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16.04 Install and Configure HBase</title>
+    <link href="http://xuanxiewu.com/2017/08/19/ubuntu16-04-install-and-configure-hbase/"/>
+    <id>http://xuanxiewu.com/2017/08/19/ubuntu16-04-install-and-configure-hbase/</id>
+    <published>2017-08-19T12:04:08.000Z</published>
+    <updated>2021-12-05T09:02:05.499Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/hbase.jpg&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;</summary>
+    
+    
+    
+    <category term="BigData" scheme="http://xuanxiewu.com/categories/BigData/"/>
+    
+    
+    <category term="hbase" scheme="http://xuanxiewu.com/tags/hbase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>whois</title>
+    <link href="http://xuanxiewu.com/2017/08/05/python-whois/"/>
+    <id>http://xuanxiewu.com/2017/08/05/python-whois/</id>
+    <published>2017-08-05T03:20:29.000Z</published>
+    <updated>2021-12-05T09:02:07.733Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/img/whois.jpeg&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;</summary>
+    
+    
+    
+    
+    <category term="python" scheme="http://xuanxiewu.com/tags/python/"/>
+    
+    <category term="spider" scheme="http://xuanxiewu.com/tags/spider/"/>
+    
+  </entry>
+  
 </feed>
